@@ -1,3 +1,3 @@
 # BatlleTank
-simple tank game for training purpouses
+simple tank game for training purpuses
 
